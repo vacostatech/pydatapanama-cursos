@@ -1,7 +1,5 @@
 # 👨‍🏫 Instructor Profile: Jason Sepúlveda
 
-![Instructor: Jason Sepúlveda](assets/jason_profile.jpeg)
-
 Hola, soy **Jason Sepúlveda**, tu instructor para el curso de **Análisis de Datos con Python**. Soy un profesional apasionado por el poder de los datos para transformar decisiones, equipos y negocios. Cuento con más de **10 años de experiencia** liderando proyectos de análisis, marketing digital y transformación digital en América Latina.
 
 ---
