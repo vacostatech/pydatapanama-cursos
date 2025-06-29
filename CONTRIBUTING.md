@@ -26,13 +26,13 @@ Sigue estos pasos para agregar un nuevo curso al repositorio:
 1. Dirígete a la carpeta `cursos/` y crea un nuevo directorio con formato:
 
 ```bash
-cursos/0X-nombre-del-curso/
+cursos/nombre-del-curso/
 ```
 
 Ejemplo:
 
 ```bash
-cursos/02-visualizacion-avanzada/
+cursos/isualizacion-avanzada/
 ```
 
 2. Dentro de la carpeta del curso, incluye al menos:

@@ -20,7 +20,7 @@ cd pydatapanama-cursos/cursos/01-analisis-de-datos
 ## 🗂 2. Estructura del proyecto del curso
 
 ```markdown
-01-analisis-de-datos/
+analisis_datos/
 ├── data/
 │   ├── raw/             # Datos originales sin procesar
 │   └── processed/       # Datos limpios o transformados
@@ -49,7 +49,7 @@ Si quieres enviar tus ejercicios o soluciones:
 * Sigue esta convención de nombres:
 
 ```bash
-pyda-sesion01-{tu_usuario_de_github}.ipynb
+pyda-modulo01-{tu_usuario_de_github}.ipynb
 ```
 
 * Guarda el archivo dentro de la carpeta:
@@ -61,7 +61,7 @@ notebooks/
 📌 Ejemplo:
 
 ```bash
-notebooks/pyda-sesion01-janedoe.ipynb
+notebooks/pyda-modulo01-janedoe.ipynb
 ```
 
 Puedes enviar tantas contribuciones como desees, separadas por sesión.

@@ -8,11 +8,11 @@ Bienvenido/a al curso oficial de análisis de datos de la comunidad **PyDataPana
 
 ### 1. Haz un fork del repositorio
 
-Haz clic en el botón **Fork** arriba a la derecha y luego clónalo:
+Haz clic en el botón [**Fork**](https://github.com/PyData-Panama/pydatapanama-cursos/fork) arriba a la derecha y luego clónalo:
 
 ```bash
 git clone https://github.com/tu-usuario/pydatapanama-cursos.git
-cd cursos/01-analisis-de-datos
+cd cursos/analisis_datos
 ```
 
 ### 2. Revisa la guía de contribución
@@ -47,7 +47,7 @@ Capacitar a los participantes en el uso de Python y sus librerías especializada
 ```bash
 pydatapanama-cursos/
 ├── cursos/
-│   └── 01-analisis-de-datos/
+│   └── analisis_datos/
 │       ├── assets/               # Imágenes o recursos visuales
 │       ├── data/
 │       │   ├── raw/              # Datos originales
