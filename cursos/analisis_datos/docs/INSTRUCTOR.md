@@ -6,7 +6,7 @@ Hola, soy **Jason Sepúlveda**, tu instructor para el curso de **Análisis de Da
 
 ## 🧠 Por qué puedo enseñarte este curso
 
-* He liderado proyectos regionales de ciencia de datos y automatización en empresas multinacionales como **Hilti**.
+* He liderado proyectos regionales de ciencia de datos y automatización en empresas multinacionales.
 * Soy **Analista de Datos, Científico de Datos y Project Manager**, con experiencia real aplicando Python, SQL y herramientas BI para resolver problemas de negocio.
 * Diseñé y desarrollé un pipeline de ETL que extrae datos desde SAP y entrega análisis on-demand para más de 300 territorios de ventas.
 * He creado dashboards e insights que han impulsado resultados concretos como:

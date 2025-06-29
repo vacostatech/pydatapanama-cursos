@@ -1,0 +1,326 @@
+nombre,apellido,edad,pais,educacion_universitaria,nombre_de_la_empresa,cargo,anos_en_la_empresa,sueldo_anual,bono_anual
+José,López,36,Chile,Sí,Mercado Libre,Python Developer,2,$71841,€4981
+Fernanda,Vargas,39,Chile,Sí,Amazon,AI Software Engineer,2,$142115,€1252
+Fernanda,Ramírez,30,Colombia,No,Facebook,Machine Learning Engineer,2,$92278,€5262
+José,Gómez,35,Chile,Sí,Mercado Libre,Python Developer,12,$97130,€3671
+Ana,Pérez,32,Panamá,No,Amazon,Project Manager,2,$61413,€10190
+Andrea,Torres,45,Costa Rica,No,Mercado Libre,Data Engineer,8,$84987,€5493
+Andrea,Vargas,58,Chile,No,Mercado Libre,Data Scientist,9,$96936,€4911
+Pedro,Herrera,25,México,Sí,Meta,AI Software Engineer,1,$152001,€11801
+Juan,Torres,48,Uruguay,Sí,Oracle,Python Developer,9,$97369,€1365
+María,Vargas,50,Colombia,No,Oracle,Machine Learning Engineer,13,$105123,€12154
+José,Pérez,30,Chile,No,Amazon,Machine Learning Engineer,10,$81409,€6366
+Juan,Torres,22,Colombia,Sí,Mercado Libre,Product Owner,7,$74902,€12472
+Camila,Flores,40,Uruguay,Sí,Google,Data Analyst,2,$35364,€1637
+Fernanda,Herrera,26,Chile,Sí,Mercado Libre,Machine Learning Engineer,13,$84741,€12323
+Paula,López,58,Uruguay,No,Microsoft,Data Scientist,8,$76792,€9038
+Carlos,Pérez,46,Argentina,Sí,Microsoft,Python Developer,8,$90876,€2626
+Fernanda,Ríos,23,Costa Rica,Sí,Oracle,Data Engineer,10,$97616,€8345
+Luis,Flores,53,Argentina,No,Nubank,AI Software Engineer,6,$95956,€1069
+José,Rodríguez,44,México,Sí,Amazon,Data Analyst,13,$42108,€12268
+Ana,Flores,40,Chile,Sí,Mercado Libre,Machine Learning Engineer,1,$118690,€5051
+María,Ríos,53,Perú,Sí,Amazon,Python Developer,3,$95666,€7029
+Pedro,Ramírez,54,Costa Rica,Sí,Microsoft,Machine Learning Engineer,2,$101737,€9828
+Pedro,Ramírez,51,México,Sí,Facebook,Project Manager,1,$48879,€5054
+Pedro,Torres,22,Costa Rica,Sí,Facebook,AI Software Engineer,6,$115269,€10657
+Luis,López,60,Uruguay,Sí,Oracle,Product Owner,1,$75080,€11548
+Camila,González,30,Perú,Sí,Google,Data Scientist,10,$58884,€8625
+Fernanda,Morales,44,México,No,Oracle,Data Scientist,0,$65917,€7026
+Lucía,Vargas,60,Argentina,No,Google,Python Developer,5,$82165,€3255
+Diego,Vargas,45,Chile,Sí,Rappi,Data Engineer,12,$125172,€14961
+Pedro,González,31,Panamá,Sí,Mercado Libre,Python Developer,11,$54548,€13974
+Carlos,Gómez,23,México,Sí,Rappi,Data Analyst,6,$60982,€5592
+Juan,Rodríguez,58,Perú,Sí,Microsoft,Data Analyst,13,$56714,€1491
+Carlos,Herrera,53,Costa Rica,No,Rappi,Data Scientist,4,$79861,€7554
+Miguel,Flores,54,Argentina,No,Meta,Data Engineer,11,$67788,€3605
+Fernanda,Díaz,38,Costa Rica,No,Oracle,Project Manager,0,$89704,€7063
+Diego,González,40,Costa Rica,No,Globant,Machine Learning Engineer,12,$104739,€11879
+Paula,Gómez,52,Perú,No,Globant,Machine Learning Engineer,13,$71418,€10873
+María,Flores,45,México,Sí,Nubank,Data Engineer,4,$60823,€10438
+Diego,Morales,38,Colombia,Sí,Mercado Libre,Machine Learning Engineer,0,$83070,€5270
+Andrea,Torres,60,Perú,No,Amazon,Software Engineer,4,$72735,€12071
+Diego,Ramírez,22,Argentina,No,Facebook,Product Owner,6,$109424,€12041
+Lucía,López,49,Costa Rica,Sí,Meta,Data Scientist,13,$61352,€7054
+Ana,Vargas,59,Colombia,Sí,Facebook,Python Developer,4,$53014,€4640
+Miguel,Ramírez,29,Argentina,Sí,Meta,Python Developer,2,$84302,€13634
+Luis,Herrera,33,Colombia,No,Globant,Data Engineer,3,$77423,€4505
+Pedro,Vargas,28,Costa Rica,No,Facebook,Data Analyst,8,$56598,€3690
+Andrea,Ramírez,50,Argentina,Sí,Nubank,Product Owner,13,$91150,€2549
+Fernanda,Díaz,46,Panamá,No,Meta,Data Analyst,12,$63670,€5778
+Diego,Flores,50,Uruguay,No,Google,Software Engineer,3,$107042,€1575
+Andrea,Morales,52,México,No,Meta,Data Analyst,4,$58727,€5310
+Valentina,Flores,30,Perú,No,Mercado Libre,Data Engineer,1,$93618,€8376
+Fernanda,Torres,47,Costa Rica,Sí,Google,Product Owner,7,$87181,€7291
+José,González,43,Uruguay,No,Amazon,Product Owner,13,$67513,€11453
+Miguel,Flores,27,Colombia,No,Meta,Data Analyst,8,$38227,€8408
+Miguel,Herrera,60,Panamá,Sí,Rappi,Machine Learning Engineer,0,$125989,€2596
+Fernanda,Vargas,27,Panamá,No,Microsoft,Project Manager,10,$85896,€14618
+Pedro,Pérez,41,Panamá,Sí,Oracle,Project Manager,5,$86413,€5985
+Andrea,Martínez,33,Argentina,Sí,Google,Software Engineer,0,$98310,€1839
+Andrea,González,25,Argentina,No,Nubank,Project Manager,8,$53482,€4612
+Andrea,Ríos,36,Colombia,No,Globant,Python Developer,10,$56931,€14337
+Paula,Gómez,56,Perú,Sí,Amazon,Data Scientist,12,$106834,€14796
+Javier,Díaz,23,Costa Rica,Sí,Google,Product Owner,4,$88256,€8127
+Camila,Ríos,36,Perú,Sí,Nubank,Python Developer,9,$67107,€7703
+Pedro,Ramírez,25,Panamá,No,Facebook,Data Engineer,4,$103067,€11933
+Fernanda,Torres,38,México,Sí,Mercado Libre,Data Analyst,2,$68594,€11000
+José,Pérez,45,Uruguay,No,Meta,Machine Learning Engineer,4,$128127,€1879
+Lucía,Pérez,30,Chile,Sí,Rappi,Python Developer,1,$84856,€1828
+Ana,Díaz,50,Panamá,No,Facebook,Machine Learning Engineer,8,$124921,€3498
+Luis,González,25,Argentina,Sí,Google,Data Analyst,5,$62431,€2609
+José,Morales,25,Argentina,No,Microsoft,Data Scientist,8,$87164,€14915
+María,Pérez,52,Argentina,Sí,Rappi,Machine Learning Engineer,11,$90957,€12673
+Diego,Torres,55,Colombia,Sí,Amazon,Python Developer,11,$52866,€11046
+Camila,Díaz,26,México,No,Oracle,Data Engineer,11,$100249,€7924
+Valentina,Flores,25,Chile,Sí,Facebook,Software Engineer,11,$84872,€5300
+Andrea,Ríos,29,Chile,Sí,Nubank,Software Engineer,2,$133547,€12056
+Valentina,Torres,23,Colombia,No,Mercado Libre,Product Owner,2,$71932,€7518
+Carlos,Vargas,25,Panamá,Sí,Oracle,Data Engineer,12,$94324,€13008
+José,Torres,35,Uruguay,Sí,Nubank,Product Owner,4,$57277,€6757
+Ana,Torres,29,Chile,No,Amazon,Product Owner,8,$81371,€13494
+Paula,Ríos,30,México,Sí,Facebook,Data Analyst,6,$59827,€6903
+Juan,López,54,Panamá,No,Mercado Libre,Machine Learning Engineer,13,$96085,€5203
+Camila,Morales,41,México,Sí,Facebook,Machine Learning Engineer,0,$81407,€8293
+Andrea,Pérez,55,Chile,Sí,Rappi,Software Engineer,0,$64089,€13395
+Camila,Pérez,37,Colombia,Sí,Rappi,Machine Learning Engineer,12,$136693,€12748
+Juan,Torres,38,Chile,Sí,Mercado Libre,Software Engineer,12,$124815,€3790
+Carlos,Vargas,51,Costa Rica,No,Oracle,Software Engineer,13,$62222,€6344
+Lucía,Flores,53,Argentina,Sí,Google,AI Software Engineer,5,$151380,€10064
+Diego,Martínez,36,Panamá,No,Facebook,Project Manager,2,$87891,€8388
+Fernanda,Ríos,41,Perú,No,Amazon,AI Software Engineer,6,$121857,€14423
+Valentina,Flores,31,México,No,Oracle,Software Engineer,7,$119673,€3562
+Javier,Herrera,34,Perú,Sí,Facebook,Software Engineer,5,$62651,€9046
+Pedro,Gómez,57,Panamá,No,Rappi,Product Owner,4,$95346,€2837
+Miguel,Morales,35,Panamá,Sí,Google,Product Owner,8,$84200,€4170
+Camila,Ríos,32,Uruguay,No,Nubank,AI Software Engineer,8,$141274,€12409
+Luis,Rodríguez,53,Colombia,Sí,Amazon,AI Software Engineer,8,$155281,€11387
+Carlos,Gómez,48,Chile,No,Facebook,AI Software Engineer,10,$94791,€4835
+María,López,60,Panamá,No,Mercado Libre,Machine Learning Engineer,13,$145237,€5480
+Juan,González,56,Costa Rica,Sí,Rappi,Product Owner,10,$84204,€7141
+María,Ramírez,25,Perú,No,Meta,Data Scientist,10,$106464,€11488
+Valentina,Flores,36,Uruguay,No,Microsoft,Software Engineer,6,$86701,€7823
+Javier,González,54,México,No,Amazon,Machine Learning Engineer,10,$85512,€4435
+María,Díaz,43,Colombia,Sí,Meta,Machine Learning Engineer,0,$131795,€11728
+Camila,Gómez,50,México,Sí,Rappi,Data Analyst,9,$68765,€1204
+Ana,Ríos,36,Argentina,Sí,Meta,Data Engineer,8,$114720,€12258
+Lucía,Torres,33,México,No,Oracle,Data Engineer,4,$113552,€13236
+María,Ríos,42,Argentina,No,Rappi,Project Manager,3,$71543,€10661
+María,Herrera,48,Panamá,Sí,Oracle,Project Manager,4,$59633,€2012
+María,Ramírez,40,México,Sí,Rappi,Software Engineer,12,$61122,€14581
+Ana,Pérez,42,Costa Rica,Sí,Facebook,Data Analyst,0,$58240,€13017
+Lucía,Flores,29,Chile,No,Globant,Product Owner,11,$73458,€14360
+Diego,Morales,43,Colombia,Sí,Google,AI Software Engineer,7,$118594,€3275
+José,Ríos,59,Perú,No,Facebook,Machine Learning Engineer,5,$118011,€7016
+Paula,Flores,32,México,Sí,Google,Product Owner,10,$91122,€8842
+Fernanda,Rodríguez,50,Uruguay,No,Microsoft,Data Engineer,7,$103214,€7056
+Ana,Rodríguez,24,México,Sí,Google,Project Manager,0,$42449,€8971
+Carlos,Martínez,47,México,Sí,Oracle,Python Developer,10,$47101,€8139
+Valentina,Martínez,45,Costa Rica,Sí,Mercado Libre,Machine Learning Engineer,13,$76052,€10565
+Fernanda,Torres,26,Colombia,No,Nubank,Machine Learning Engineer,4,$94301,€5710
+Lucía,López,60,Uruguay,Sí,Mercado Libre,Data Scientist,2,$77020,€11986
+Pedro,Morales,37,Costa Rica,No,Facebook,Data Engineer,9,$69770,€2575
+Carlos,Torres,30,Colombia,No,Mercado Libre,Machine Learning Engineer,5,$113447,€2074
+Camila,Martínez,53,Argentina,Sí,Rappi,Data Analyst,13,$55904,€11300
+Valentina,Díaz,34,Chile,Sí,Google,Data Engineer,7,$90708,€9093
+Fernanda,Gómez,25,Panamá,No,Microsoft,Product Owner,4,$59919,€9402
+Juan,Ramírez,47,México,No,Google,Project Manager,4,$77773,€11793
+Diego,Vargas,37,Perú,No,Meta,Product Owner,8,$81727,€3024
+Luis,López,58,Colombia,No,Nubank,Product Owner,5,$89737,€2651
+Carlos,Martínez,37,Colombia,Sí,Rappi,Product Owner,10,$109966,€8404
+Javier,Gómez,46,Panamá,No,Globant,Data Scientist,9,$108655,€3343
+José,Morales,45,Chile,Sí,Mercado Libre,Data Analyst,2,$60631,€2528
+Fernanda,Flores,59,Colombia,Sí,Meta,Software Engineer,13,$68927,€5879
+Javier,Flores,34,Panamá,Sí,Facebook,Machine Learning Engineer,2,$73174,€3994
+Andrea,Pérez,34,Panamá,No,Globant,Data Analyst,3,$51988,€3520
+Juan,Díaz,45,Colombia,Sí,Rappi,Product Owner,7,$91510,€13169
+Andrea,López,38,Costa Rica,No,Amazon,AI Software Engineer,12,$82980,€5820
+Pedro,González,53,Chile,No,Oracle,Project Manager,6,$88910,€10002
+Carlos,González,46,Panamá,Sí,Facebook,AI Software Engineer,4,$124191,€14682
+Diego,Flores,46,Argentina,Sí,Rappi,Project Manager,9,$59413,€8655
+Pedro,González,59,Uruguay,No,Mercado Libre,Project Manager,9,$86386,€11289
+Fernanda,Rodríguez,49,Costa Rica,Sí,Google,Project Manager,10,$50469,€9026
+Paula,Herrera,33,Perú,Sí,Meta,Data Analyst,8,$67622,€14538
+Juan,Vargas,41,Uruguay,Sí,Mercado Libre,Project Manager,6,$80883,€14171
+Carlos,Díaz,37,Colombia,Sí,Meta,Python Developer,4,$86029,€12057
+Luis,Herrera,32,Costa Rica,Sí,Meta,AI Software Engineer,11,$153058,€9289
+Carlos,Torres,43,Costa Rica,No,Mercado Libre,Machine Learning Engineer,5,$97410,€9042
+José,Morales,30,Perú,No,Oracle,Machine Learning Engineer,6,$79148,€3163
+José,Rodríguez,44,Uruguay,Sí,Google,Project Manager,1,$80044,€1630
+Andrea,Ramírez,57,México,No,Google,AI Software Engineer,10,$113325,€6429
+Ana,Vargas,23,Panamá,No,Facebook,Product Owner,12,$73450,€1783
+Luis,Vargas,59,Argentina,No,Oracle,Data Scientist,11,$103571,€6818
+Javier,Ramírez,50,Colombia,Sí,Rappi,Machine Learning Engineer,5,$136401,€3125
+Miguel,González,59,Chile,Sí,Mercado Libre,Product Owner,12,$54197,€3844
+Miguel,Vargas,43,Colombia,No,Globant,Data Analyst,9,$56841,€8716
+Javier,Morales,49,México,No,Globant,Data Engineer,11,$79216,€7169
+Lucía,Herrera,31,Uruguay,No,Rappi,Data Engineer,7,$92345,€11940
+Lucía,Vargas,55,Argentina,No,Amazon,Project Manager,2,$63095,€11609
+Pedro,Ríos,53,Colombia,Sí,Meta,Data Engineer,9,$81391,€12256
+Javier,Rodríguez,51,Chile,No,Google,Product Owner,1,$51570,€2595
+José,Díaz,27,Costa Rica,Sí,Rappi,Machine Learning Engineer,2,$100670,€12139
+Fernanda,Torres,50,México,Sí,Microsoft,Python Developer,7,$86612,€9633
+María,Ríos,41,Perú,Sí,Nubank,Data Engineer,3,$72569,€11014
+Pedro,González,22,Uruguay,Sí,Meta,Data Scientist,12,$97477,€4051
+Ana,Morales,54,México,Sí,Globant,AI Software Engineer,8,$155005,€9887
+Luis,Ríos,55,Colombia,No,Amazon,Machine Learning Engineer,9,$111401,€6950
+Pedro,Pérez,50,Panamá,No,Nubank,Data Scientist,1,$79469,€4074
+Miguel,González,27,México,No,Facebook,Project Manager,1,$42045,€13691
+Valentina,Torres,48,México,No,Nubank,Machine Learning Engineer,13,$121538,€8737
+José,Pérez,22,Colombia,Sí,Google,Machine Learning Engineer,0,$127377,€8663
+José,Morales,33,Chile,Sí,Amazon,Product Owner,13,$81447,€4145
+Miguel,Torres,29,Chile,No,Globant,AI Software Engineer,4,$122249,€7917
+Pedro,Torres,48,Uruguay,No,Mercado Libre,AI Software Engineer,7,$86563,€9625
+Camila,López,28,Perú,Sí,Amazon,Data Analyst,7,$43750,€8170
+Juan,López,40,Uruguay,No,Oracle,Product Owner,6,$96715,€12504
+Paula,Vargas,29,Colombia,Sí,Facebook,Data Engineer,10,$122441,€12538
+Valentina,Vargas,27,México,No,Google,Data Analyst,5,$40099,€8949
+Lucía,Torres,24,Perú,No,Oracle,Data Engineer,5,$86100,€2280
+Lucía,Torres,53,Argentina,Sí,Microsoft,Python Developer,8,$75800,€13241
+Paula,Pérez,29,Argentina,No,Facebook,Product Owner,1,$68537,€2228
+Paula,Rodríguez,50,Colombia,Sí,Microsoft,Product Owner,10,$55906,€6886
+Ana,López,24,Argentina,Sí,Facebook,Data Scientist,13,$111761,€2237
+María,González,51,Uruguay,No,Facebook,Data Engineer,13,$95329,€13899
+Paula,Herrera,33,Colombia,Sí,Oracle,Python Developer,2,$61401,€14440
+Lucía,Herrera,50,Chile,No,Meta,AI Software Engineer,9,$91462,€13734
+Diego,Ramírez,24,Chile,Sí,Meta,Software Engineer,5,$91132,€12346
+Camila,Gómez,30,Perú,Sí,Oracle,Data Scientist,0,$87880,€3211
+Ana,Gómez,38,México,No,Google,Software Engineer,1,$117807,€13842
+Fernanda,Flores,55,México,Sí,Oracle,Data Engineer,4,$91388,€14441
+María,Morales,56,Perú,Sí,Facebook,Data Scientist,12,$110936,€2301
+Carlos,Flores,41,Uruguay,Sí,Globant,AI Software Engineer,4,$116716,€11834
+Lucía,González,52,Perú,Sí,Facebook,Software Engineer,2,$80549,€11319
+Andrea,Ramírez,23,Colombia,No,Amazon,Project Manager,4,$40901,€5888
+Carlos,Martínez,23,Argentina,No,Microsoft,AI Software Engineer,6,$130325,€7732
+Camila,Rodríguez,55,Uruguay,No,Rappi,Data Analyst,0,$62415,€13046
+Valentina,Herrera,49,Perú,Sí,Mercado Libre,Machine Learning Engineer,8,$123025,€11330
+María,Herrera,48,Panamá,Sí,Meta,Product Owner,9,$97231,€2102
+Pedro,Díaz,31,Colombia,No,Google,Python Developer,9,$53347,€10352
+José,Ramírez,25,Perú,Sí,Globant,AI Software Engineer,4,$145707,€13299
+María,Ríos,39,Uruguay,No,Globant,Data Scientist,6,$83563,€11460
+Andrea,Gómez,54,Colombia,No,Amazon,Data Engineer,5,$72315,€13614
+Fernanda,Pérez,36,Argentina,Sí,Rappi,Data Analyst,4,$41695,€6155
+Ana,Ríos,54,Costa Rica,No,Mercado Libre,Product Owner,6,$60847,€7323
+Juan,Rodríguez,53,Colombia,Sí,Mercado Libre,Data Analyst,11,$57802,€8983
+Luis,Vargas,25,Panamá,Sí,Google,Data Analyst,6,$66276,€12844
+Paula,Torres,22,Uruguay,No,Amazon,Machine Learning Engineer,13,$76820,€5547
+Ana,Herrera,53,Argentina,Sí,Microsoft,Project Manager,12,$84983,€3686
+Javier,Morales,32,Colombia,No,Facebook,Machine Learning Engineer,4,$87377,€2385
+Valentina,González,47,Argentina,No,Facebook,Python Developer,4,$69762,€10753
+Camila,González,55,Argentina,No,Microsoft,Project Manager,6,$86710,€1486
+Pedro,Gómez,40,Costa Rica,Sí,Mercado Libre,Data Analyst,12,$39407,€7610
+Juan,Morales,29,Chile,Sí,Rappi,Software Engineer,6,$132938,€13479
+Valentina,Ríos,52,Argentina,Sí,Amazon,Software Engineer,6,$61678,€6961
+Fernanda,Ríos,32,Perú,No,Nubank,Data Analyst,6,$61790,€5978
+Diego,Morales,39,Argentina,No,Mercado Libre,Python Developer,1,$94667,€14979
+María,Morales,41,Argentina,Sí,Globant,Data Engineer,2,$79885,€3224
+María,Rodríguez,55,Colombia,No,Rappi,Project Manager,11,$69488,€11613
+Luis,Pérez,58,Chile,Sí,Nubank,Data Scientist,7,$87372,€8260
+Miguel,Ramírez,57,Colombia,Sí,Amazon,Software Engineer,0,$70370,€3065
+Juan,Ríos,45,Perú,No,Microsoft,Project Manager,10,$83403,€8650
+Camila,Rodríguez,23,Perú,No,Mercado Libre,Project Manager,4,$57666,€9761
+Fernanda,Pérez,54,Perú,Sí,Mercado Libre,Data Analyst,9,$65997,€4301
+María,Ríos,46,México,No,Meta,Product Owner,9,$82804,€4505
+Lucía,Morales,44,México,Sí,Meta,Product Owner,9,$65284,€11578
+José,Vargas,42,México,No,Meta,Data Scientist,9,$97996,€7800
+Ana,Herrera,39,Perú,Sí,Meta,Project Manager,4,$48211,€2707
+Ana,Vargas,24,Colombia,No,Globant,Software Engineer,4,$127640,€7621
+Fernanda,Ríos,33,Uruguay,Sí,Oracle,Data Engineer,1,$89423,€5636
+Luis,Ramírez,26,Argentina,Sí,Microsoft,Machine Learning Engineer,7,$103657,€9886
+Javier,Torres,25,Uruguay,No,Nubank,Data Analyst,13,$53608,€5761
+Camila,Rodríguez,48,Costa Rica,Sí,Meta,Machine Learning Engineer,12,$73296,€2801
+Javier,Flores,24,Costa Rica,No,Microsoft,Data Engineer,13,$91907,€6232
+Camila,Martínez,38,Costa Rica,Sí,Mercado Libre,Software Engineer,4,$129692,€8990
+Lucía,Gómez,32,Costa Rica,Sí,Google,Data Scientist,1,$60620,€12187
+Fernanda,Morales,49,Costa Rica,Sí,Meta,Project Manager,10,$56879,€1962
+Fernanda,Torres,35,Uruguay,No,Mercado Libre,Machine Learning Engineer,7,$111194,€2920
+Pedro,Ramírez,35,Perú,Sí,Rappi,Data Scientist,13,$114272,€2901
+Paula,Rodríguez,40,Argentina,No,Meta,Data Scientist,0,$91544,€9848
+Andrea,Gómez,49,México,Sí,Microsoft,Software Engineer,11,$130371,€13633
+Lucía,Vargas,32,Uruguay,No,Google,Product Owner,11,$59686,€5838
+Paula,Ríos,33,Panamá,Sí,Facebook,Software Engineer,11,$131826,€8337
+Javier,Flores,22,Panamá,No,Google,AI Software Engineer,5,$111955,€7385
+Javier,Rodríguez,29,Uruguay,Sí,Facebook,Machine Learning Engineer,8,$134394,€9991
+Carlos,Vargas,46,México,Sí,Google,Data Engineer,11,$62928,€8881
+Paula,López,60,Argentina,Sí,Facebook,Data Analyst,5,$56618,€6254
+Camila,González,29,Costa Rica,No,Globant,Data Analyst,9,$45300,€6266
+Lucía,Díaz,60,Chile,Sí,Google,Product Owner,13,$98013,€3624
+Ana,Flores,47,México,Sí,Oracle,Data Scientist,11,$109871,€2290
+Valentina,Pérez,60,México,No,Facebook,AI Software Engineer,5,$83881,€8974
+Fernanda,Vargas,34,Costa Rica,No,Rappi,Data Scientist,7,$80431,€4863
+Carlos,Rodríguez,25,Argentina,No,Rappi,AI Software Engineer,1,$86584,€1849
+Lucía,Díaz,38,Chile,No,Rappi,Python Developer,5,$93618,€5484
+María,Ríos,47,Argentina,Sí,Google,Data Engineer,3,$92641,€12708
+Pedro,Ríos,27,Panamá,Sí,Facebook,Data Analyst,8,$54955,€1549
+Lucía,Díaz,35,Colombia,Sí,Meta,Software Engineer,0,$60583,€6598
+Juan,Herrera,26,Argentina,Sí,Microsoft,AI Software Engineer,6,$121259,€8333
+Lucía,González,56,Perú,No,Oracle,Data Analyst,3,$62533,€10429
+Diego,Gómez,51,Panamá,Sí,Amazon,Python Developer,13,$52817,€6263
+Juan,López,50,Colombia,No,Oracle,Machine Learning Engineer,3,$83972,€2260
+Juan,Díaz,23,Costa Rica,No,Microsoft,Data Analyst,6,$59946,€11829
+Camila,Torres,33,Colombia,Sí,Oracle,Machine Learning Engineer,4,$138743,€8658
+Ana,Torres,52,Costa Rica,Sí,Google,Project Manager,5,$80607,€13993
+Camila,Ríos,51,Chile,Sí,Meta,Data Analyst,4,$69832,€11915
+Carlos,Gómez,42,Costa Rica,Sí,Nubank,Software Engineer,11,$114949,€5702
+Lucía,Rodríguez,26,México,Sí,Globant,Product Owner,11,$55823,€9182
+Miguel,Ríos,50,Perú,No,Google,Data Engineer,3,$88430,€12352
+María,Vargas,53,Chile,No,Mercado Libre,Software Engineer,3,$81926,€11899
+Luis,Ramírez,60,Argentina,No,Google,Data Scientist,4,$72011,€6723
+José,Martínez,35,Chile,Sí,Globant,Data Engineer,3,$97114,€1684
+Carlos,Flores,55,Uruguay,Sí,Globant,Machine Learning Engineer,1,$104541,€3128
+Lucía,Torres,36,Costa Rica,No,Oracle,Software Engineer,0,$86042,€8746
+Lucía,González,56,Uruguay,No,Nubank,Data Scientist,7,$96078,€11419
+Andrea,Pérez,26,Perú,Sí,Meta,Data Engineer,11,$93115,€3426
+Fernanda,González,36,México,Sí,Globant,Data Scientist,7,$60532,€7274
+Paula,Ramírez,31,Argentina,Sí,Google,Product Owner,9,$104366,€7965
+Andrea,Gómez,43,Uruguay,Sí,Facebook,Python Developer,10,$76506,€12149
+Pedro,Torres,50,Costa Rica,No,Microsoft,Software Engineer,2,$81151,€9864
+Ana,Torres,28,Argentina,No,Mercado Libre,Data Analyst,11,$45241,€14520
+Pedro,López,44,Colombia,No,Amazon,Machine Learning Engineer,2,$74411,€5505
+Paula,Vargas,48,Panamá,No,Meta,Data Engineer,3,$68423,€10501
+Camila,Ríos,37,México,Sí,Mercado Libre,Project Manager,10,$51981,€2169
+Diego,Morales,29,Panamá,Sí,Globant,Product Owner,11,$50924,€12515
+Andrea,Gómez,28,Uruguay,No,Meta,Product Owner,2,$74394,€14141
+Javier,Díaz,29,Uruguay,No,Amazon,Product Owner,9,$59917,€13131
+Ana,Martínez,24,Chile,No,Microsoft,Data Analyst,3,$51440,€13638
+Andrea,Ramírez,25,Uruguay,No,Meta,Data Engineer,0,$79226,€13424
+Juan,Herrera,60,Costa Rica,No,Rappi,Software Engineer,5,$127936,€1250
+María,Rodríguez,38,Perú,No,Globant,Data Scientist,0,$73431,€9825
+Ana,Pérez,27,México,Sí,Oracle,AI Software Engineer,6,$149065,€12139
+Javier,Ramírez,35,Uruguay,No,Nubank,Software Engineer,3,$64675,€3029
+Juan,Ramírez,53,México,No,Rappi,Project Manager,3,$89725,€9560
+Ana,Pérez,51,Panamá,No,Oracle,Project Manager,2,$67999,€12035
+Valentina,Gómez,24,Perú,Sí,Mercado Libre,Software Engineer,7,$107609,€10263
+María,Ríos,27,Argentina,Sí,Globant,Python Developer,4,$94800,€11287
+Valentina,Ríos,50,Chile,No,Google,Python Developer,8,$50138,€3937
+Pedro,Díaz,59,Colombia,Sí,Microsoft,AI Software Engineer,9,$133052,€5600
+Paula,Díaz,53,Costa Rica,No,Rappi,Machine Learning Engineer,10,$70039,€9874
+Luis,Pérez,27,Chile,No,Facebook,AI Software Engineer,10,$118006,€10379
+Andrea,Rodríguez,36,Panamá,Sí,Facebook,Project Manager,1,$73366,€3878
+Juan,Morales,49,Costa Rica,No,Amazon,Software Engineer,2,$120868,€12223
+Camila,Torres,45,México,No,Facebook,Data Engineer,3,$91461,€2816
+Diego,Díaz,41,México,No,Google,Data Analyst,0,$41558,€5934
+Ana,Pérez,51,,No,Oracle,Project Manager,2,$67999,€12035
+Valentina,Gómez,24,Perú,Sí,Mercado Libre,Software Engineer,7,$107609,€10263
+María,Ríos,27,Argentina,Sí,Globant,Python Developer,4,$,€11287
+Valentina,Ríos,50,Chile,No,,Python Developer,8,$50138,€3937
+Pedro,Díaz,59,Colombia,Sí,,AI Software Engineer,9,$133052,€5600
+Paula,Díaz,53,Costa Rica,No,,Machine Learning Engineer,10,$,€9874
+Luis,Pérez,27,Chile,No,Facebook,AI Software Engineer,10,$,€10379
+Andrea,Rodríguez,36,Panamá,Sí,Facebook,Project Manager,1,$,€3878
+Juan,Morales,49,Costa Rica,No,Amazon,Software Engineer,2,$,€12223
+Camila,Torres,45,México,No,Facebook,Data Engineer,3,$,€2816
+Diego,Díaz,41,México,No,Google,Data Analyst,0,$,€5934
+Lucía,Rodríguez,26,México,Sí,Globant,Product Owner,11,$55823,€9182
+Miguel,Ríos,50,Perú,No,Google,Data Engineer,3,$88430,€12352
+María,Vargas,53,Chile,No,Mercado Libre,Software Engineer,3,$81926,€11899
+Luis,Ramírez,60,Argentina,No,,Data Scientist,4,$72011,€6723
+José,Martínez,35,Chile,Sí,,Data Engineer,3,$97114,€1684
+Carlos,Flores,55,Uruguay,Sí,,Machine Learning Engineer,1,$104541,€3128
+Lucía,Torres,36,Costa Rica,No,,Software Engineer,0,$86042,€8746
+Lucía,González,56,Uruguay,No,,Data Scientist,7,$96078,€11419
+Luis,Ramírez,60,Argentina,No,Google,Data Scientist,4,$72011,€6723
+José,Martínez,35,Chile,Sí,Globant,Data Engineer,3,$97114,€1684
+Carlos,Flores,55,Uruguay,Sí,Globant,Machine Learning Engineer,1,$104541,€3128
+Lucía,Torres,36,Costa Rica,No,Oracle,Software Engineer,0,$86042,€8746
+Lucía,González,56,Uruguay,No,Nubank,Data Scientist,7,$96078,€11419
+Andrea,Pérez,26,Perú,Sí,Meta,Data Engineer,11,$93115,€3426

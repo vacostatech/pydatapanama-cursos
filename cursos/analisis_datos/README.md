@@ -68,7 +68,7 @@ pydatapanama-cursos/
 
 ### Módulo 1: Introducción y Preparación del Entorno
 
-* Flujo de trabajo en ciencia de datos
+* Flujo de trabajo en análisis de datos
 * Entornos virtuales y estructura de proyecto
 * Carga y exploración de datos con Pandas
 
