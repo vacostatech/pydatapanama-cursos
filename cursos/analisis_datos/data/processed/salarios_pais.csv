@@ -1,0 +1,308 @@
+nombre,apellido,edad,pais,educacion_universitaria,nombre_de_la_empresa,cargo,anos_en_la_empresa,sueldo_anual_dolares,bono_anual_euros,bono_anual_dolares,capital,cantidad_de_habitantes,PIB,ingreso_per_capita,senioridad,compensacion_total
+José,López,36,Chile,Sí,Mercado Libre,Python Developer,2,71841.0,4981.0,4283.66,Santiago,19116209.0,317000000000.0,16580.0,Junior,76124.66
+Fernanda,Vargas,39,Chile,Sí,Amazon,AI Software Engineer,2,142115.0,1252.0,1076.72,Santiago,19116209.0,317000000000.0,16580.0,Junior,143191.72
+Fernanda,Ramírez,30,Colombia,No,Facebook,Machine Learning Engineer,2,92278.0,5262.0,4525.32,Bogotá,51874024.0,343000000000.0,6611.0,Junior,96803.32
+José,Gómez,35,Chile,Sí,Mercado Libre,Python Developer,12,97130.0,3671.0,3157.06,Santiago,19116209.0,317000000000.0,16580.0,Senior,100287.06
+Ana,Pérez,32,Panamá,No,Amazon,Project Manager,2,61413.0,10190.0,8763.4,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,70176.4
+Andrea,Torres,45,Costa Rica,No,Mercado Libre,Data Engineer,8,84987.0,5493.0,4723.98,San José,5150000.0,86500000000.0,14319.0,Senior,89710.98
+Andrea,Vargas,58,Chile,No,Mercado Libre,Data Scientist,9,96936.0,4911.0,4223.46,Santiago,19116209.0,317000000000.0,16580.0,Senior,101159.46
+Pedro,Herrera,25,México,Sí,Meta,AI Software Engineer,1,152001.0,11801.0,10148.86,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,162149.86
+Juan,Torres,48,Uruguay,Sí,Oracle,Python Developer,9,97369.0,1365.0,1173.9,Montevideo,3518552.0,71000000000.0,20300.0,Senior,98542.9
+María,Vargas,50,Colombia,No,Oracle,Machine Learning Engineer,13,105123.0,12154.0,10452.44,Bogotá,51874024.0,343000000000.0,6611.0,Senior,115575.44
+José,Pérez,30,Chile,No,Amazon,Machine Learning Engineer,10,81409.0,6366.0,5474.76,Santiago,19116209.0,317000000000.0,16580.0,Senior,86883.76
+Juan,Torres,22,Colombia,Sí,Mercado Libre,Product Owner,7,74902.0,12472.0,10725.92,Bogotá,51874024.0,343000000000.0,6611.0,Senior,85627.92
+Camila,Flores,40,Uruguay,Sí,Google,Data Analyst,2,35364.0,1637.0,1407.82,Montevideo,3518552.0,71000000000.0,20300.0,Junior,36771.82
+Fernanda,Herrera,26,Chile,Sí,Mercado Libre,Machine Learning Engineer,13,84741.0,12323.0,10597.78,Santiago,19116209.0,317000000000.0,16580.0,Senior,95338.78
+Paula,López,58,Uruguay,No,Microsoft,Data Scientist,8,76792.0,9038.0,7772.68,Montevideo,3518552.0,71000000000.0,20300.0,Senior,84564.68
+Carlos,Pérez,46,Argentina,Sí,Microsoft,Python Developer,8,90876.0,2626.0,2258.36,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,93134.36
+Fernanda,Ríos,23,Costa Rica,Sí,Oracle,Data Engineer,10,97616.0,8345.0,7176.7,San José,5150000.0,86500000000.0,14319.0,Senior,104792.7
+Luis,Flores,53,Argentina,No,Nubank,AI Software Engineer,6,95956.0,1069.0,919.34,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,96875.34
+José,Rodríguez,44,México,Sí,Amazon,Data Analyst,13,42108.0,12268.0,10550.48,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,52658.479999999996
+Ana,Flores,40,Chile,Sí,Mercado Libre,Machine Learning Engineer,1,118690.0,5051.0,4343.86,Santiago,19116209.0,317000000000.0,16580.0,Junior,123033.86
+María,Ríos,53,Perú,Sí,Amazon,Python Developer,3,95666.0,7029.0,6044.94,Lima,33925854.0,268000000000.0,7900.0,Junior,101710.94
+Pedro,Ramírez,54,Costa Rica,Sí,Microsoft,Machine Learning Engineer,2,101737.0,9828.0,8452.08,San José,5150000.0,86500000000.0,14319.0,Junior,110189.08
+Pedro,Ramírez,51,México,Sí,Facebook,Project Manager,1,48879.0,5054.0,4346.44,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,53225.44
+Pedro,Torres,22,Costa Rica,Sí,Facebook,AI Software Engineer,6,115269.0,10657.0,9165.02,San José,5150000.0,86500000000.0,14319.0,Senior,124434.02
+Luis,López,60,Uruguay,Sí,Oracle,Product Owner,1,75080.0,11548.0,9931.28,Montevideo,3518552.0,71000000000.0,20300.0,Junior,85011.28
+Camila,González,30,Perú,Sí,Google,Data Scientist,10,58884.0,8625.0,7417.5,Lima,33925854.0,268000000000.0,7900.0,Senior,66301.5
+Fernanda,Morales,44,México,No,Oracle,Data Scientist,0,65917.0,7026.0,6042.36,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,71959.36
+Lucía,Vargas,60,Argentina,No,Google,Python Developer,5,82165.0,3255.0,2799.3,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,84964.3
+Diego,Vargas,45,Chile,Sí,Rappi,Data Engineer,12,125172.0,14961.0,12866.46,Santiago,19116209.0,317000000000.0,16580.0,Senior,138038.46
+Pedro,González,31,Panamá,Sí,Mercado Libre,Python Developer,11,54548.0,13974.0,12017.64,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,66565.64
+Carlos,Gómez,23,México,Sí,Rappi,Data Analyst,6,60982.0,5592.0,4809.12,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,65791.12
+Juan,Rodríguez,58,Perú,Sí,Microsoft,Data Analyst,13,56714.0,1491.0,1282.26,Lima,33925854.0,268000000000.0,7900.0,Senior,57996.26
+Carlos,Herrera,53,Costa Rica,No,Rappi,Data Scientist,4,79861.0,7554.0,6496.44,San José,5150000.0,86500000000.0,14319.0,Junior,86357.44
+Miguel,Flores,54,Argentina,No,Meta,Data Engineer,11,67788.0,3605.0,3100.2999999999997,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,70888.3
+Fernanda,Díaz,38,Costa Rica,No,Oracle,Project Manager,0,89704.0,7063.0,6074.18,San José,5150000.0,86500000000.0,14319.0,Junior,95778.18
+Diego,González,40,Costa Rica,No,Globant,Machine Learning Engineer,12,104739.0,11879.0,10215.94,San José,5150000.0,86500000000.0,14319.0,Senior,114954.94
+Paula,Gómez,52,Perú,No,Globant,Machine Learning Engineer,13,71418.0,10873.0,9350.78,Lima,33925854.0,268000000000.0,7900.0,Senior,80768.78
+María,Flores,45,México,Sí,Nubank,Data Engineer,4,60823.0,10438.0,8976.68,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,69799.68
+Diego,Morales,38,Colombia,Sí,Mercado Libre,Machine Learning Engineer,0,83070.0,5270.0,4532.2,Bogotá,51874024.0,343000000000.0,6611.0,Junior,87602.2
+Andrea,Torres,60,Perú,No,Amazon,Software Engineer,4,72735.0,12071.0,10381.06,Lima,33925854.0,268000000000.0,7900.0,Junior,83116.06
+Diego,Ramírez,22,Argentina,No,Facebook,Product Owner,6,109424.0,12041.0,10355.26,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,119779.26
+Lucía,López,49,Costa Rica,Sí,Meta,Data Scientist,13,61352.0,7054.0,6066.44,San José,5150000.0,86500000000.0,14319.0,Senior,67418.44
+Ana,Vargas,59,Colombia,Sí,Facebook,Python Developer,4,53014.0,4640.0,3990.4,Bogotá,51874024.0,343000000000.0,6611.0,Junior,57004.4
+Miguel,Ramírez,29,Argentina,Sí,Meta,Python Developer,2,84302.0,13634.0,11725.24,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,96027.24
+Luis,Herrera,33,Colombia,No,Globant,Data Engineer,3,77423.0,4505.0,3874.2999999999997,Bogotá,51874024.0,343000000000.0,6611.0,Junior,81297.3
+Pedro,Vargas,28,Costa Rica,No,Facebook,Data Analyst,8,56598.0,3690.0,3173.4,San José,5150000.0,86500000000.0,14319.0,Senior,59771.4
+Andrea,Ramírez,50,Argentina,Sí,Nubank,Product Owner,13,91150.0,2549.0,2192.14,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,93342.14
+Fernanda,Díaz,46,Panamá,No,Meta,Data Analyst,12,63670.0,5778.0,4969.08,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,68639.08
+Diego,Flores,50,Uruguay,No,Google,Software Engineer,3,107042.0,1575.0,1354.5,Montevideo,3518552.0,71000000000.0,20300.0,Junior,108396.5
+Andrea,Morales,52,México,No,Meta,Data Analyst,4,58727.0,5310.0,4566.6,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,63293.6
+Valentina,Flores,30,Perú,No,Mercado Libre,Data Engineer,1,93618.0,8376.0,7203.36,Lima,33925854.0,268000000000.0,7900.0,Junior,100821.36
+Fernanda,Torres,47,Costa Rica,Sí,Google,Product Owner,7,87181.0,7291.0,6270.26,San José,5150000.0,86500000000.0,14319.0,Senior,93451.26
+José,González,43,Uruguay,No,Amazon,Product Owner,13,67513.0,11453.0,9849.58,Montevideo,3518552.0,71000000000.0,20300.0,Senior,77362.58
+Miguel,Flores,27,Colombia,No,Meta,Data Analyst,8,38227.0,8408.0,7230.88,Bogotá,51874024.0,343000000000.0,6611.0,Senior,45457.88
+Miguel,Herrera,60,Panamá,Sí,Rappi,Machine Learning Engineer,0,125989.0,2596.0,2232.56,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,128221.56
+Fernanda,Vargas,27,Panamá,No,Microsoft,Project Manager,10,85896.0,14618.0,12571.48,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,98467.48
+Pedro,Pérez,41,Panamá,Sí,Oracle,Project Manager,5,86413.0,5985.0,5147.1,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,91560.1
+Andrea,Martínez,33,Argentina,Sí,Google,Software Engineer,0,98310.0,1839.0,1581.54,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,99891.54
+Andrea,González,25,Argentina,No,Nubank,Project Manager,8,53482.0,4612.0,3966.32,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,57448.32
+Andrea,Ríos,36,Colombia,No,Globant,Python Developer,10,56931.0,14337.0,12329.82,Bogotá,51874024.0,343000000000.0,6611.0,Senior,69260.82
+Paula,Gómez,56,Perú,Sí,Amazon,Data Scientist,12,106834.0,14796.0,12724.56,Lima,33925854.0,268000000000.0,7900.0,Senior,119558.56
+Javier,Díaz,23,Costa Rica,Sí,Google,Product Owner,4,88256.0,8127.0,6989.22,San José,5150000.0,86500000000.0,14319.0,Junior,95245.22
+Camila,Ríos,36,Perú,Sí,Nubank,Python Developer,9,67107.0,7703.0,6624.58,Lima,33925854.0,268000000000.0,7900.0,Senior,73731.58
+Pedro,Ramírez,25,Panamá,No,Facebook,Data Engineer,4,103067.0,11933.0,10262.38,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,113329.38
+Fernanda,Torres,38,México,Sí,Mercado Libre,Data Analyst,2,68594.0,11000.0,9460.0,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,78054.0
+José,Pérez,45,Uruguay,No,Meta,Machine Learning Engineer,4,128127.0,1879.0,1615.94,Montevideo,3518552.0,71000000000.0,20300.0,Junior,129742.94
+Lucía,Pérez,30,Chile,Sí,Rappi,Python Developer,1,84856.0,1828.0,1572.08,Santiago,19116209.0,317000000000.0,16580.0,Junior,86428.08
+Ana,Díaz,50,Panamá,No,Facebook,Machine Learning Engineer,8,124921.0,3498.0,3008.2799999999997,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,127929.28
+Luis,González,25,Argentina,Sí,Google,Data Analyst,5,62431.0,2609.0,2243.74,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,64674.74
+José,Morales,25,Argentina,No,Microsoft,Data Scientist,8,87164.0,14915.0,12826.9,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,99990.9
+María,Pérez,52,Argentina,Sí,Rappi,Machine Learning Engineer,11,90957.0,12673.0,10898.78,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,101855.78
+Diego,Torres,55,Colombia,Sí,Amazon,Python Developer,11,52866.0,11046.0,9499.56,Bogotá,51874024.0,343000000000.0,6611.0,Senior,62365.56
+Camila,Díaz,26,México,No,Oracle,Data Engineer,11,100249.0,7924.0,6814.64,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,107063.64
+Valentina,Flores,25,Chile,Sí,Facebook,Software Engineer,11,84872.0,5300.0,4558.0,Santiago,19116209.0,317000000000.0,16580.0,Senior,89430.0
+Andrea,Ríos,29,Chile,Sí,Nubank,Software Engineer,2,133547.0,12056.0,10368.16,Santiago,19116209.0,317000000000.0,16580.0,Junior,143915.16
+Valentina,Torres,23,Colombia,No,Mercado Libre,Product Owner,2,71932.0,7518.0,6465.48,Bogotá,51874024.0,343000000000.0,6611.0,Junior,78397.48
+Carlos,Vargas,25,Panamá,Sí,Oracle,Data Engineer,12,94324.0,13008.0,11186.88,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,105510.88
+José,Torres,35,Uruguay,Sí,Nubank,Product Owner,4,57277.0,6757.0,5811.0199999999995,Montevideo,3518552.0,71000000000.0,20300.0,Junior,63088.02
+Ana,Torres,29,Chile,No,Amazon,Product Owner,8,81371.0,13494.0,11604.84,Santiago,19116209.0,317000000000.0,16580.0,Senior,92975.84
+Paula,Ríos,30,México,Sí,Facebook,Data Analyst,6,59827.0,6903.0,5936.58,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,65763.58
+Juan,López,54,Panamá,No,Mercado Libre,Machine Learning Engineer,13,96085.0,5203.0,4474.58,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,100559.58
+Camila,Morales,41,México,Sí,Facebook,Machine Learning Engineer,0,81407.0,8293.0,7131.98,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,88538.98
+Andrea,Pérez,55,Chile,Sí,Rappi,Software Engineer,0,64089.0,13395.0,11519.7,Santiago,19116209.0,317000000000.0,16580.0,Junior,75608.7
+Camila,Pérez,37,Colombia,Sí,Rappi,Machine Learning Engineer,12,136693.0,12748.0,10963.28,Bogotá,51874024.0,343000000000.0,6611.0,Senior,147656.28
+Juan,Torres,38,Chile,Sí,Mercado Libre,Software Engineer,12,124815.0,3790.0,3259.4,Santiago,19116209.0,317000000000.0,16580.0,Senior,128074.4
+Carlos,Vargas,51,Costa Rica,No,Oracle,Software Engineer,13,62222.0,6344.0,5455.84,San José,5150000.0,86500000000.0,14319.0,Senior,67677.84
+Lucía,Flores,53,Argentina,Sí,Google,AI Software Engineer,5,151380.0,10064.0,8655.039999999999,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,160035.04
+Diego,Martínez,36,Panamá,No,Facebook,Project Manager,2,87891.0,8388.0,7213.68,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,95104.68
+Fernanda,Ríos,41,Perú,No,Amazon,AI Software Engineer,6,121857.0,14423.0,12403.78,Lima,33925854.0,268000000000.0,7900.0,Senior,134260.78
+Valentina,Flores,31,México,No,Oracle,Software Engineer,7,119673.0,3562.0,3063.32,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,122736.32
+Javier,Herrera,34,Perú,Sí,Facebook,Software Engineer,5,62651.0,9046.0,7779.5599999999995,Lima,33925854.0,268000000000.0,7900.0,Junior,70430.56
+Pedro,Gómez,57,Panamá,No,Rappi,Product Owner,4,95346.0,2837.0,2439.82,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,97785.82
+Miguel,Morales,35,Panamá,Sí,Google,Product Owner,8,84200.0,4170.0,3586.2,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,87786.2
+Camila,Ríos,32,Uruguay,No,Nubank,AI Software Engineer,8,141274.0,12409.0,10671.74,Montevideo,3518552.0,71000000000.0,20300.0,Senior,151945.74
+Luis,Rodríguez,53,Colombia,Sí,Amazon,AI Software Engineer,8,155281.0,11387.0,9792.82,Bogotá,51874024.0,343000000000.0,6611.0,Senior,165073.82
+Carlos,Gómez,48,Chile,No,Facebook,AI Software Engineer,10,94791.0,4835.0,4158.1,Santiago,19116209.0,317000000000.0,16580.0,Senior,98949.1
+María,López,60,Panamá,No,Mercado Libre,Machine Learning Engineer,13,145237.0,5480.0,4712.8,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,149949.8
+Juan,González,56,Costa Rica,Sí,Rappi,Product Owner,10,84204.0,7141.0,6141.26,San José,5150000.0,86500000000.0,14319.0,Senior,90345.26
+María,Ramírez,25,Perú,No,Meta,Data Scientist,10,106464.0,11488.0,9879.68,Lima,33925854.0,268000000000.0,7900.0,Senior,116343.68
+Valentina,Flores,36,Uruguay,No,Microsoft,Software Engineer,6,86701.0,7823.0,6727.78,Montevideo,3518552.0,71000000000.0,20300.0,Senior,93428.78
+Javier,González,54,México,No,Amazon,Machine Learning Engineer,10,85512.0,4435.0,3814.1,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,89326.1
+María,Díaz,43,Colombia,Sí,Meta,Machine Learning Engineer,0,131795.0,11728.0,10086.08,Bogotá,51874024.0,343000000000.0,6611.0,Junior,141881.08
+Camila,Gómez,50,México,Sí,Rappi,Data Analyst,9,68765.0,1204.0,1035.44,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,69800.44
+Ana,Ríos,36,Argentina,Sí,Meta,Data Engineer,8,114720.0,12258.0,10541.88,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,125261.88
+Lucía,Torres,33,México,No,Oracle,Data Engineer,4,113552.0,13236.0,11382.96,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,124934.95999999999
+María,Ríos,42,Argentina,No,Rappi,Project Manager,3,71543.0,10661.0,9168.46,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,80711.45999999999
+María,Herrera,48,Panamá,Sí,Oracle,Project Manager,4,59633.0,2012.0,1730.32,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,61363.32
+María,Ramírez,40,México,Sí,Rappi,Software Engineer,12,61122.0,14581.0,12539.66,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,73661.66
+Ana,Pérez,42,Costa Rica,Sí,Facebook,Data Analyst,0,58240.0,13017.0,11194.619999999999,San José,5150000.0,86500000000.0,14319.0,Junior,69434.62
+Lucía,Flores,29,Chile,No,Globant,Product Owner,11,73458.0,14360.0,12349.6,Santiago,19116209.0,317000000000.0,16580.0,Senior,85807.6
+Diego,Morales,43,Colombia,Sí,Google,AI Software Engineer,7,118594.0,3275.0,2816.5,Bogotá,51874024.0,343000000000.0,6611.0,Senior,121410.5
+José,Ríos,59,Perú,No,Facebook,Machine Learning Engineer,5,118011.0,7016.0,6033.76,Lima,33925854.0,268000000000.0,7900.0,Junior,124044.76
+Paula,Flores,32,México,Sí,Google,Product Owner,10,91122.0,8842.0,7604.12,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,98726.12
+Fernanda,Rodríguez,50,Uruguay,No,Microsoft,Data Engineer,7,103214.0,7056.0,6068.16,Montevideo,3518552.0,71000000000.0,20300.0,Senior,109282.16
+Ana,Rodríguez,24,México,Sí,Google,Project Manager,0,42449.0,8971.0,7715.0599999999995,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,50164.06
+Carlos,Martínez,47,México,Sí,Oracle,Python Developer,10,47101.0,8139.0,6999.54,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,54100.54
+Valentina,Martínez,45,Costa Rica,Sí,Mercado Libre,Machine Learning Engineer,13,76052.0,10565.0,9085.9,San José,5150000.0,86500000000.0,14319.0,Senior,85137.9
+Fernanda,Torres,26,Colombia,No,Nubank,Machine Learning Engineer,4,94301.0,5710.0,4910.6,Bogotá,51874024.0,343000000000.0,6611.0,Junior,99211.6
+Lucía,López,60,Uruguay,Sí,Mercado Libre,Data Scientist,2,77020.0,11986.0,10307.96,Montevideo,3518552.0,71000000000.0,20300.0,Junior,87327.95999999999
+Pedro,Morales,37,Costa Rica,No,Facebook,Data Engineer,9,69770.0,2575.0,2214.5,San José,5150000.0,86500000000.0,14319.0,Senior,71984.5
+Carlos,Torres,30,Colombia,No,Mercado Libre,Machine Learning Engineer,5,113447.0,2074.0,1783.6399999999999,Bogotá,51874024.0,343000000000.0,6611.0,Junior,115230.64
+Camila,Martínez,53,Argentina,Sí,Rappi,Data Analyst,13,55904.0,11300.0,9718.0,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,65622.0
+Valentina,Díaz,34,Chile,Sí,Google,Data Engineer,7,90708.0,9093.0,7819.98,Santiago,19116209.0,317000000000.0,16580.0,Senior,98527.98
+Fernanda,Gómez,25,Panamá,No,Microsoft,Product Owner,4,59919.0,9402.0,8085.72,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,68004.72
+Juan,Ramírez,47,México,No,Google,Project Manager,4,77773.0,11793.0,10141.98,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,87914.98
+Diego,Vargas,37,Perú,No,Meta,Product Owner,8,81727.0,3024.0,2600.64,Lima,33925854.0,268000000000.0,7900.0,Senior,84327.64
+Luis,López,58,Colombia,No,Nubank,Product Owner,5,89737.0,2651.0,2279.86,Bogotá,51874024.0,343000000000.0,6611.0,Junior,92016.86
+Carlos,Martínez,37,Colombia,Sí,Rappi,Product Owner,10,109966.0,8404.0,7227.44,Bogotá,51874024.0,343000000000.0,6611.0,Senior,117193.44
+Javier,Gómez,46,Panamá,No,Globant,Data Scientist,9,108655.0,3343.0,2874.98,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,111529.98
+José,Morales,45,Chile,Sí,Mercado Libre,Data Analyst,2,60631.0,2528.0,2174.08,Santiago,19116209.0,317000000000.0,16580.0,Junior,62805.08
+Fernanda,Flores,59,Colombia,Sí,Meta,Software Engineer,13,68927.0,5879.0,5055.94,Bogotá,51874024.0,343000000000.0,6611.0,Senior,73982.94
+Javier,Flores,34,Panamá,Sí,Facebook,Machine Learning Engineer,2,73174.0,3994.0,3434.84,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,76608.84
+Andrea,Pérez,34,Panamá,No,Globant,Data Analyst,3,51988.0,3520.0,3027.2,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,55015.2
+Juan,Díaz,45,Colombia,Sí,Rappi,Product Owner,7,91510.0,13169.0,11325.34,Bogotá,51874024.0,343000000000.0,6611.0,Senior,102835.34
+Andrea,López,38,Costa Rica,No,Amazon,AI Software Engineer,12,82980.0,5820.0,5005.2,San José,5150000.0,86500000000.0,14319.0,Senior,87985.2
+Pedro,González,53,Chile,No,Oracle,Project Manager,6,88910.0,10002.0,8601.72,Santiago,19116209.0,317000000000.0,16580.0,Senior,97511.72
+Carlos,González,46,Panamá,Sí,Facebook,AI Software Engineer,4,124191.0,14682.0,12626.52,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,136817.52
+Diego,Flores,46,Argentina,Sí,Rappi,Project Manager,9,59413.0,8655.0,7443.3,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,66856.3
+Pedro,González,59,Uruguay,No,Mercado Libre,Project Manager,9,86386.0,11289.0,9708.539999999999,Montevideo,3518552.0,71000000000.0,20300.0,Senior,96094.54
+Fernanda,Rodríguez,49,Costa Rica,Sí,Google,Project Manager,10,50469.0,9026.0,7762.36,San José,5150000.0,86500000000.0,14319.0,Senior,58231.36
+Paula,Herrera,33,Perú,Sí,Meta,Data Analyst,8,67622.0,14538.0,12502.68,Lima,33925854.0,268000000000.0,7900.0,Senior,80124.68
+Juan,Vargas,41,Uruguay,Sí,Mercado Libre,Project Manager,6,80883.0,14171.0,12187.06,Montevideo,3518552.0,71000000000.0,20300.0,Senior,93070.06
+Carlos,Díaz,37,Colombia,Sí,Meta,Python Developer,4,86029.0,12057.0,10369.02,Bogotá,51874024.0,343000000000.0,6611.0,Junior,96398.02
+Luis,Herrera,32,Costa Rica,Sí,Meta,AI Software Engineer,11,153058.0,9289.0,7988.54,San José,5150000.0,86500000000.0,14319.0,Senior,161046.54
+Carlos,Torres,43,Costa Rica,No,Mercado Libre,Machine Learning Engineer,5,97410.0,9042.0,7776.12,San José,5150000.0,86500000000.0,14319.0,Junior,105186.12
+José,Morales,30,Perú,No,Oracle,Machine Learning Engineer,6,79148.0,3163.0,2720.18,Lima,33925854.0,268000000000.0,7900.0,Senior,81868.18
+José,Rodríguez,44,Uruguay,Sí,Google,Project Manager,1,80044.0,1630.0,1401.8,Montevideo,3518552.0,71000000000.0,20300.0,Junior,81445.8
+Andrea,Ramírez,57,México,No,Google,AI Software Engineer,10,113325.0,6429.0,5528.94,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,118853.94
+Ana,Vargas,23,Panamá,No,Facebook,Product Owner,12,73450.0,1783.0,1533.3799999999999,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,74983.38
+Luis,Vargas,59,Argentina,No,Oracle,Data Scientist,11,103571.0,6818.0,5863.48,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,109434.48
+Javier,Ramírez,50,Colombia,Sí,Rappi,Machine Learning Engineer,5,136401.0,3125.0,2687.5,Bogotá,51874024.0,343000000000.0,6611.0,Junior,139088.5
+Miguel,González,59,Chile,Sí,Mercado Libre,Product Owner,12,54197.0,3844.0,3305.84,Santiago,19116209.0,317000000000.0,16580.0,Senior,57502.84
+Miguel,Vargas,43,Colombia,No,Globant,Data Analyst,9,56841.0,8716.0,7495.76,Bogotá,51874024.0,343000000000.0,6611.0,Senior,64336.76
+Javier,Morales,49,México,No,Globant,Data Engineer,11,79216.0,7169.0,6165.34,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,85381.34
+Lucía,Herrera,31,Uruguay,No,Rappi,Data Engineer,7,92345.0,11940.0,10268.4,Montevideo,3518552.0,71000000000.0,20300.0,Senior,102613.4
+Lucía,Vargas,55,Argentina,No,Amazon,Project Manager,2,63095.0,11609.0,9983.74,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,73078.74
+Pedro,Ríos,53,Colombia,Sí,Meta,Data Engineer,9,81391.0,12256.0,10540.16,Bogotá,51874024.0,343000000000.0,6611.0,Senior,91931.16
+Javier,Rodríguez,51,Chile,No,Google,Product Owner,1,51570.0,2595.0,2231.7,Santiago,19116209.0,317000000000.0,16580.0,Junior,53801.7
+José,Díaz,27,Costa Rica,Sí,Rappi,Machine Learning Engineer,2,100670.0,12139.0,10439.539999999999,San José,5150000.0,86500000000.0,14319.0,Junior,111109.54
+Fernanda,Torres,50,México,Sí,Microsoft,Python Developer,7,86612.0,9633.0,8284.38,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,94896.38
+María,Ríos,41,Perú,Sí,Nubank,Data Engineer,3,72569.0,11014.0,9472.039999999999,Lima,33925854.0,268000000000.0,7900.0,Junior,82041.04
+Pedro,González,22,Uruguay,Sí,Meta,Data Scientist,12,97477.0,4051.0,3483.86,Montevideo,3518552.0,71000000000.0,20300.0,Senior,100960.86
+Ana,Morales,54,México,Sí,Globant,AI Software Engineer,8,155005.0,9887.0,8502.82,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,163507.82
+Luis,Ríos,55,Colombia,No,Amazon,Machine Learning Engineer,9,111401.0,6950.0,5977.0,Bogotá,51874024.0,343000000000.0,6611.0,Senior,117378.0
+Pedro,Pérez,50,Panamá,No,Nubank,Data Scientist,1,79469.0,4074.0,3503.64,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,82972.64
+Miguel,González,27,México,No,Facebook,Project Manager,1,42045.0,13691.0,11774.26,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,53819.26
+Valentina,Torres,48,México,No,Nubank,Machine Learning Engineer,13,121538.0,8737.0,7513.82,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,129051.82
+José,Pérez,22,Colombia,Sí,Google,Machine Learning Engineer,0,127377.0,8663.0,7450.18,Bogotá,51874024.0,343000000000.0,6611.0,Junior,134827.18
+José,Morales,33,Chile,Sí,Amazon,Product Owner,13,81447.0,4145.0,3564.7,Santiago,19116209.0,317000000000.0,16580.0,Senior,85011.7
+Miguel,Torres,29,Chile,No,Globant,AI Software Engineer,4,122249.0,7917.0,6808.62,Santiago,19116209.0,317000000000.0,16580.0,Junior,129057.62
+Pedro,Torres,48,Uruguay,No,Mercado Libre,AI Software Engineer,7,86563.0,9625.0,8277.5,Montevideo,3518552.0,71000000000.0,20300.0,Senior,94840.5
+Camila,López,28,Perú,Sí,Amazon,Data Analyst,7,43750.0,8170.0,7026.2,Lima,33925854.0,268000000000.0,7900.0,Senior,50776.2
+Juan,López,40,Uruguay,No,Oracle,Product Owner,6,96715.0,12504.0,10753.44,Montevideo,3518552.0,71000000000.0,20300.0,Senior,107468.44
+Paula,Vargas,29,Colombia,Sí,Facebook,Data Engineer,10,122441.0,12538.0,10782.68,Bogotá,51874024.0,343000000000.0,6611.0,Senior,133223.68
+Valentina,Vargas,27,México,No,Google,Data Analyst,5,40099.0,8949.0,7696.14,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,47795.14
+Lucía,Torres,24,Perú,No,Oracle,Data Engineer,5,86100.0,2280.0,1960.8,Lima,33925854.0,268000000000.0,7900.0,Junior,88060.8
+Lucía,Torres,53,Argentina,Sí,Microsoft,Python Developer,8,75800.0,13241.0,11387.26,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,87187.26
+Paula,Pérez,29,Argentina,No,Facebook,Product Owner,1,68537.0,2228.0,1916.08,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,70453.08
+Paula,Rodríguez,50,Colombia,Sí,Microsoft,Product Owner,10,55906.0,6886.0,5921.96,Bogotá,51874024.0,343000000000.0,6611.0,Senior,61827.96
+Ana,López,24,Argentina,Sí,Facebook,Data Scientist,13,111761.0,2237.0,1923.82,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,113684.82
+María,González,51,Uruguay,No,Facebook,Data Engineer,13,95329.0,13899.0,11953.14,Montevideo,3518552.0,71000000000.0,20300.0,Senior,107282.14
+Paula,Herrera,33,Colombia,Sí,Oracle,Python Developer,2,61401.0,14440.0,12418.4,Bogotá,51874024.0,343000000000.0,6611.0,Junior,73819.4
+Lucía,Herrera,50,Chile,No,Meta,AI Software Engineer,9,91462.0,13734.0,11811.24,Santiago,19116209.0,317000000000.0,16580.0,Senior,103273.24
+Diego,Ramírez,24,Chile,Sí,Meta,Software Engineer,5,91132.0,12346.0,10617.56,Santiago,19116209.0,317000000000.0,16580.0,Junior,101749.56
+Camila,Gómez,30,Perú,Sí,Oracle,Data Scientist,0,87880.0,3211.0,2761.46,Lima,33925854.0,268000000000.0,7900.0,Junior,90641.46
+Ana,Gómez,38,México,No,Google,Software Engineer,1,117807.0,13842.0,11904.119999999999,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,129711.12
+Fernanda,Flores,55,México,Sí,Oracle,Data Engineer,4,91388.0,14441.0,12419.26,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,103807.26
+María,Morales,56,Perú,Sí,Facebook,Data Scientist,12,110936.0,2301.0,1978.86,Lima,33925854.0,268000000000.0,7900.0,Senior,112914.86
+Carlos,Flores,41,Uruguay,Sí,Globant,AI Software Engineer,4,116716.0,11834.0,10177.24,Montevideo,3518552.0,71000000000.0,20300.0,Junior,126893.24
+Lucía,González,52,Perú,Sí,Facebook,Software Engineer,2,80549.0,11319.0,9734.34,Lima,33925854.0,268000000000.0,7900.0,Junior,90283.34
+Andrea,Ramírez,23,Colombia,No,Amazon,Project Manager,4,40901.0,5888.0,5063.68,Bogotá,51874024.0,343000000000.0,6611.0,Junior,45964.68
+Carlos,Martínez,23,Argentina,No,Microsoft,AI Software Engineer,6,130325.0,7732.0,6649.5199999999995,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,136974.52
+Camila,Rodríguez,55,Uruguay,No,Rappi,Data Analyst,0,62415.0,13046.0,11219.56,Montevideo,3518552.0,71000000000.0,20300.0,Junior,73634.56
+Valentina,Herrera,49,Perú,Sí,Mercado Libre,Machine Learning Engineer,8,123025.0,11330.0,9743.8,Lima,33925854.0,268000000000.0,7900.0,Senior,132768.8
+María,Herrera,48,Panamá,Sí,Meta,Product Owner,9,97231.0,2102.0,1807.72,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,99038.72
+Pedro,Díaz,31,Colombia,No,Google,Python Developer,9,53347.0,10352.0,8902.72,Bogotá,51874024.0,343000000000.0,6611.0,Senior,62249.72
+José,Ramírez,25,Perú,Sí,Globant,AI Software Engineer,4,145707.0,13299.0,11437.14,Lima,33925854.0,268000000000.0,7900.0,Junior,157144.14
+María,Ríos,39,Uruguay,No,Globant,Data Scientist,6,83563.0,11460.0,9855.6,Montevideo,3518552.0,71000000000.0,20300.0,Senior,93418.6
+Andrea,Gómez,54,Colombia,No,Amazon,Data Engineer,5,72315.0,13614.0,11708.039999999999,Bogotá,51874024.0,343000000000.0,6611.0,Junior,84023.04
+Fernanda,Pérez,36,Argentina,Sí,Rappi,Data Analyst,4,41695.0,6155.0,5293.3,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,46988.3
+Ana,Ríos,54,Costa Rica,No,Mercado Libre,Product Owner,6,60847.0,7323.0,6297.78,San José,5150000.0,86500000000.0,14319.0,Senior,67144.78
+Juan,Rodríguez,53,Colombia,Sí,Mercado Libre,Data Analyst,11,57802.0,8983.0,7725.38,Bogotá,51874024.0,343000000000.0,6611.0,Senior,65527.38
+Luis,Vargas,25,Panamá,Sí,Google,Data Analyst,6,66276.0,12844.0,11045.84,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,77321.84
+Paula,Torres,22,Uruguay,No,Amazon,Machine Learning Engineer,13,76820.0,5547.0,4770.42,Montevideo,3518552.0,71000000000.0,20300.0,Senior,81590.42
+Ana,Herrera,53,Argentina,Sí,Microsoft,Project Manager,12,84983.0,3686.0,3169.96,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,88152.96
+Javier,Morales,32,Colombia,No,Facebook,Machine Learning Engineer,4,87377.0,2385.0,2051.1,Bogotá,51874024.0,343000000000.0,6611.0,Junior,89428.1
+Valentina,González,47,Argentina,No,Facebook,Python Developer,4,69762.0,10753.0,9247.58,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,79009.58
+Camila,González,55,Argentina,No,Microsoft,Project Manager,6,86710.0,1486.0,1277.96,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,87987.96
+Pedro,Gómez,40,Costa Rica,Sí,Mercado Libre,Data Analyst,12,39407.0,7610.0,6544.599999999999,San José,5150000.0,86500000000.0,14319.0,Senior,45951.6
+Juan,Morales,29,Chile,Sí,Rappi,Software Engineer,6,132938.0,13479.0,11591.94,Santiago,19116209.0,317000000000.0,16580.0,Senior,144529.94
+Valentina,Ríos,52,Argentina,Sí,Amazon,Software Engineer,6,61678.0,6961.0,5986.46,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,67664.46
+Fernanda,Ríos,32,Perú,No,Nubank,Data Analyst,6,61790.0,5978.0,5141.08,Lima,33925854.0,268000000000.0,7900.0,Senior,66931.08
+Diego,Morales,39,Argentina,No,Mercado Libre,Python Developer,1,94667.0,14979.0,12881.94,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,107548.94
+María,Morales,41,Argentina,Sí,Globant,Data Engineer,2,79885.0,3224.0,2772.64,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,82657.64
+María,Rodríguez,55,Colombia,No,Rappi,Project Manager,11,69488.0,11613.0,9987.18,Bogotá,51874024.0,343000000000.0,6611.0,Senior,79475.18
+Luis,Pérez,58,Chile,Sí,Nubank,Data Scientist,7,87372.0,8260.0,7103.599999999999,Santiago,19116209.0,317000000000.0,16580.0,Senior,94475.6
+Miguel,Ramírez,57,Colombia,Sí,Amazon,Software Engineer,0,70370.0,3065.0,2635.9,Bogotá,51874024.0,343000000000.0,6611.0,Junior,73005.9
+Juan,Ríos,45,Perú,No,Microsoft,Project Manager,10,83403.0,8650.0,7439.0,Lima,33925854.0,268000000000.0,7900.0,Senior,90842.0
+Camila,Rodríguez,23,Perú,No,Mercado Libre,Project Manager,4,57666.0,9761.0,8394.46,Lima,33925854.0,268000000000.0,7900.0,Junior,66060.45999999999
+Fernanda,Pérez,54,Perú,Sí,Mercado Libre,Data Analyst,9,65997.0,4301.0,3698.86,Lima,33925854.0,268000000000.0,7900.0,Senior,69695.86
+María,Ríos,46,México,No,Meta,Product Owner,9,82804.0,4505.0,3874.2999999999997,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,86678.3
+Lucía,Morales,44,México,Sí,Meta,Product Owner,9,65284.0,11578.0,9957.08,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,75241.08
+José,Vargas,42,México,No,Meta,Data Scientist,9,97996.0,7800.0,6708.0,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,104704.0
+Ana,Herrera,39,Perú,Sí,Meta,Project Manager,4,48211.0,2707.0,2328.02,Lima,33925854.0,268000000000.0,7900.0,Junior,50539.02
+Ana,Vargas,24,Colombia,No,Globant,Software Engineer,4,127640.0,7621.0,6554.0599999999995,Bogotá,51874024.0,343000000000.0,6611.0,Junior,134194.06
+Fernanda,Ríos,33,Uruguay,Sí,Oracle,Data Engineer,1,89423.0,5636.0,4846.96,Montevideo,3518552.0,71000000000.0,20300.0,Junior,94269.96
+Luis,Ramírez,26,Argentina,Sí,Microsoft,Machine Learning Engineer,7,103657.0,9886.0,8501.96,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,112158.95999999999
+Javier,Torres,25,Uruguay,No,Nubank,Data Analyst,13,53608.0,5761.0,4954.46,Montevideo,3518552.0,71000000000.0,20300.0,Senior,58562.46
+Camila,Rodríguez,48,Costa Rica,Sí,Meta,Machine Learning Engineer,12,73296.0,2801.0,2408.86,San José,5150000.0,86500000000.0,14319.0,Senior,75704.86
+Javier,Flores,24,Costa Rica,No,Microsoft,Data Engineer,13,91907.0,6232.0,5359.5199999999995,San José,5150000.0,86500000000.0,14319.0,Senior,97266.52
+Camila,Martínez,38,Costa Rica,Sí,Mercado Libre,Software Engineer,4,129692.0,8990.0,7731.4,San José,5150000.0,86500000000.0,14319.0,Junior,137423.4
+Lucía,Gómez,32,Costa Rica,Sí,Google,Data Scientist,1,60620.0,12187.0,10480.82,San José,5150000.0,86500000000.0,14319.0,Junior,71100.82
+Fernanda,Morales,49,Costa Rica,Sí,Meta,Project Manager,10,56879.0,1962.0,1687.32,San José,5150000.0,86500000000.0,14319.0,Senior,58566.32
+Fernanda,Torres,35,Uruguay,No,Mercado Libre,Machine Learning Engineer,7,111194.0,2920.0,2511.2,Montevideo,3518552.0,71000000000.0,20300.0,Senior,113705.2
+Pedro,Ramírez,35,Perú,Sí,Rappi,Data Scientist,13,114272.0,2901.0,2494.86,Lima,33925854.0,268000000000.0,7900.0,Senior,116766.86
+Paula,Rodríguez,40,Argentina,No,Meta,Data Scientist,0,91544.0,9848.0,8469.28,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,100013.28
+Andrea,Gómez,49,México,Sí,Microsoft,Software Engineer,11,130371.0,13633.0,11724.38,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,142095.38
+Lucía,Vargas,32,Uruguay,No,Google,Product Owner,11,59686.0,5838.0,5020.68,Montevideo,3518552.0,71000000000.0,20300.0,Senior,64706.68
+Paula,Ríos,33,Panamá,Sí,Facebook,Software Engineer,11,131826.0,8337.0,7169.82,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,138995.82
+Javier,Flores,22,Panamá,No,Google,AI Software Engineer,5,111955.0,7385.0,6351.099999999999,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,118306.1
+Javier,Rodríguez,29,Uruguay,Sí,Facebook,Machine Learning Engineer,8,134394.0,9991.0,8592.26,Montevideo,3518552.0,71000000000.0,20300.0,Senior,142986.26
+Carlos,Vargas,46,México,Sí,Google,Data Engineer,11,62928.0,8881.0,7637.66,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,70565.66
+Paula,López,60,Argentina,Sí,Facebook,Data Analyst,5,56618.0,6254.0,5378.44,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,61996.44
+Camila,González,29,Costa Rica,No,Globant,Data Analyst,9,45300.0,6266.0,5388.76,San José,5150000.0,86500000000.0,14319.0,Senior,50688.76
+Lucía,Díaz,60,Chile,Sí,Google,Product Owner,13,98013.0,3624.0,3116.64,Santiago,19116209.0,317000000000.0,16580.0,Senior,101129.64
+Ana,Flores,47,México,Sí,Oracle,Data Scientist,11,109871.0,2290.0,1969.3999999999999,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,111840.4
+Valentina,Pérez,60,México,No,Facebook,AI Software Engineer,5,83881.0,8974.0,7717.64,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,91598.64
+Fernanda,Vargas,34,Costa Rica,No,Rappi,Data Scientist,7,80431.0,4863.0,4182.18,San José,5150000.0,86500000000.0,14319.0,Senior,84613.18
+Carlos,Rodríguez,25,Argentina,No,Rappi,AI Software Engineer,1,86584.0,1849.0,1590.1399999999999,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,88174.14
+Lucía,Díaz,38,Chile,No,Rappi,Python Developer,5,93618.0,5484.0,4716.24,Santiago,19116209.0,317000000000.0,16580.0,Junior,98334.24
+María,Ríos,47,Argentina,Sí,Google,Data Engineer,3,92641.0,12708.0,10928.88,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,103569.88
+Pedro,Ríos,27,Panamá,Sí,Facebook,Data Analyst,8,54955.0,1549.0,1332.1399999999999,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,56287.14
+Lucía,Díaz,35,Colombia,Sí,Meta,Software Engineer,0,60583.0,6598.0,5674.28,Bogotá,51874024.0,343000000000.0,6611.0,Junior,66257.28
+Juan,Herrera,26,Argentina,Sí,Microsoft,AI Software Engineer,6,121259.0,8333.0,7166.38,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,128425.38
+Lucía,González,56,Perú,No,Oracle,Data Analyst,3,62533.0,10429.0,8968.94,Lima,33925854.0,268000000000.0,7900.0,Junior,71501.94
+Diego,Gómez,51,Panamá,Sí,Amazon,Python Developer,13,52817.0,6263.0,5386.18,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,58203.18
+Juan,López,50,Colombia,No,Oracle,Machine Learning Engineer,3,83972.0,2260.0,1943.6,Bogotá,51874024.0,343000000000.0,6611.0,Junior,85915.6
+Juan,Díaz,23,Costa Rica,No,Microsoft,Data Analyst,6,59946.0,11829.0,10172.94,San José,5150000.0,86500000000.0,14319.0,Senior,70118.94
+Camila,Torres,33,Colombia,Sí,Oracle,Machine Learning Engineer,4,138743.0,8658.0,7445.88,Bogotá,51874024.0,343000000000.0,6611.0,Junior,146188.88
+Ana,Torres,52,Costa Rica,Sí,Google,Project Manager,5,80607.0,13993.0,12033.98,San José,5150000.0,86500000000.0,14319.0,Junior,92640.98
+Camila,Ríos,51,Chile,Sí,Meta,Data Analyst,4,69832.0,11915.0,10246.9,Santiago,19116209.0,317000000000.0,16580.0,Junior,80078.9
+Carlos,Gómez,42,Costa Rica,Sí,Nubank,Software Engineer,11,114949.0,5702.0,4903.72,San José,5150000.0,86500000000.0,14319.0,Senior,119852.72
+Lucía,Rodríguez,26,México,Sí,Globant,Product Owner,11,55823.0,9182.0,7896.5199999999995,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,63719.52
+Miguel,Ríos,50,Perú,No,Google,Data Engineer,3,88430.0,12352.0,10622.72,Lima,33925854.0,268000000000.0,7900.0,Junior,99052.72
+María,Vargas,53,Chile,No,Mercado Libre,Software Engineer,3,81926.0,11899.0,10233.14,Santiago,19116209.0,317000000000.0,16580.0,Junior,92159.14
+Luis,Ramírez,60,Argentina,No,Google,Data Scientist,4,72011.0,6723.0,5781.78,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,77792.78
+José,Martínez,35,Chile,Sí,Globant,Data Engineer,3,97114.0,1684.0,1448.24,Santiago,19116209.0,317000000000.0,16580.0,Junior,98562.24
+Carlos,Flores,55,Uruguay,Sí,Globant,Machine Learning Engineer,1,104541.0,3128.0,2690.08,Montevideo,3518552.0,71000000000.0,20300.0,Junior,107231.08
+Lucía,Torres,36,Costa Rica,No,Oracle,Software Engineer,0,86042.0,8746.0,7521.5599999999995,San José,5150000.0,86500000000.0,14319.0,Junior,93563.56
+Lucía,González,56,Uruguay,No,Nubank,Data Scientist,7,96078.0,11419.0,9820.34,Montevideo,3518552.0,71000000000.0,20300.0,Senior,105898.34
+Andrea,Pérez,26,Perú,Sí,Meta,Data Engineer,11,93115.0,3426.0,2946.36,Lima,33925854.0,268000000000.0,7900.0,Senior,96061.36
+Fernanda,González,36,México,Sí,Globant,Data Scientist,7,60532.0,7274.0,6255.64,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,66787.64
+Paula,Ramírez,31,Argentina,Sí,Google,Product Owner,9,104366.0,7965.0,6849.9,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,111215.9
+Andrea,Gómez,43,Uruguay,Sí,Facebook,Python Developer,10,76506.0,12149.0,10448.14,Montevideo,3518552.0,71000000000.0,20300.0,Senior,86954.14
+Pedro,Torres,50,Costa Rica,No,Microsoft,Software Engineer,2,81151.0,9864.0,8483.039999999999,San José,5150000.0,86500000000.0,14319.0,Junior,89634.04
+Ana,Torres,28,Argentina,No,Mercado Libre,Data Analyst,11,45241.0,14520.0,12487.199999999999,Buenos Aires,45376763.0,641000000000.0,14120.0,Senior,57728.2
+Pedro,López,44,Colombia,No,Amazon,Machine Learning Engineer,2,74411.0,5505.0,4734.3,Bogotá,51874024.0,343000000000.0,6611.0,Junior,79145.3
+Paula,Vargas,48,Panamá,No,Meta,Data Engineer,3,68423.0,10501.0,9030.86,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,77453.86
+Camila,Ríos,37,México,Sí,Mercado Libre,Project Manager,10,51981.0,2169.0,1865.34,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,53846.34
+Diego,Morales,29,Panamá,Sí,Globant,Product Owner,11,50924.0,12515.0,10762.9,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Senior,61686.9
+Andrea,Gómez,28,Uruguay,No,Meta,Product Owner,2,74394.0,14141.0,12161.26,Montevideo,3518552.0,71000000000.0,20300.0,Junior,86555.26
+Javier,Díaz,29,Uruguay,No,Amazon,Product Owner,9,59917.0,13131.0,11292.66,Montevideo,3518552.0,71000000000.0,20300.0,Senior,71209.66
+Ana,Martínez,24,Chile,No,Microsoft,Data Analyst,3,51440.0,13638.0,11728.68,Santiago,19116209.0,317000000000.0,16580.0,Junior,63168.68
+Andrea,Ramírez,25,Uruguay,No,Meta,Data Engineer,0,79226.0,13424.0,11544.64,Montevideo,3518552.0,71000000000.0,20300.0,Junior,90770.64
+Juan,Herrera,60,Costa Rica,No,Rappi,Software Engineer,5,127936.0,1250.0,1075.0,San José,5150000.0,86500000000.0,14319.0,Junior,129011.0
+María,Rodríguez,38,Perú,No,Globant,Data Scientist,0,73431.0,9825.0,8449.5,Lima,33925854.0,268000000000.0,7900.0,Junior,81880.5
+Ana,Pérez,27,México,Sí,Oracle,AI Software Engineer,6,149065.0,12139.0,10439.539999999999,Ciudad de México,126014024.0,1410000000000.0,11190.0,Senior,159504.54
+Javier,Ramírez,35,Uruguay,No,Nubank,Software Engineer,3,64675.0,3029.0,2604.94,Montevideo,3518552.0,71000000000.0,20300.0,Junior,67279.94
+Juan,Ramírez,53,México,No,Rappi,Project Manager,3,89725.0,9560.0,8221.6,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,97946.6
+Ana,Pérez,51,Panamá,No,Oracle,Project Manager,2,67999.0,12035.0,10350.1,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,78349.1
+Valentina,Gómez,24,Perú,Sí,Mercado Libre,Software Engineer,7,107609.0,10263.0,8826.18,Lima,33925854.0,268000000000.0,7900.0,Senior,116435.18
+María,Ríos,27,Argentina,Sí,Globant,Python Developer,4,94800.0,11287.0,9706.82,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,104506.82
+Valentina,Ríos,50,Chile,No,Google,Python Developer,8,50138.0,3937.0,3385.82,Santiago,19116209.0,317000000000.0,16580.0,Senior,53523.82
+Pedro,Díaz,59,Colombia,Sí,Microsoft,AI Software Engineer,9,133052.0,5600.0,4816.0,Bogotá,51874024.0,343000000000.0,6611.0,Senior,137868.0
+Paula,Díaz,53,Costa Rica,No,Rappi,Machine Learning Engineer,10,70039.0,9874.0,8491.64,San José,5150000.0,86500000000.0,14319.0,Senior,78530.64
+Luis,Pérez,27,Chile,No,Facebook,AI Software Engineer,10,118006.0,10379.0,8925.94,Santiago,19116209.0,317000000000.0,16580.0,Senior,126931.94
+Andrea,Rodríguez,36,Panamá,Sí,Facebook,Project Manager,1,73366.0,3878.0,3335.08,Ciudad de Panamá,4468000.0,76000000000.0,16995.0,Junior,76701.08
+Juan,Morales,49,Costa Rica,No,Amazon,Software Engineer,2,120868.0,12223.0,10511.78,San José,5150000.0,86500000000.0,14319.0,Junior,131379.78
+Camila,Torres,45,México,No,Facebook,Data Engineer,3,91461.0,2816.0,2421.7599999999998,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,93882.76
+Diego,Díaz,41,México,No,Google,Data Analyst,0,41558.0,5934.0,5103.24,Ciudad de México,126014024.0,1410000000000.0,11190.0,Junior,46661.24
+Valentina,Ríos,50,Chile,No,Empresa Desconocida,Python Developer,8,50138.0,3937.0,3385.82,Santiago,19116209.0,317000000000.0,16580.0,Senior,53523.82
+Pedro,Díaz,59,Colombia,Sí,Empresa Desconocida,AI Software Engineer,9,133052.0,5600.0,4816.0,Bogotá,51874024.0,343000000000.0,6611.0,Senior,137868.0
+Luis,Ramírez,60,Argentina,No,Empresa Desconocida,Data Scientist,4,72011.0,6723.0,5781.78,Buenos Aires,45376763.0,641000000000.0,14120.0,Junior,77792.78
+José,Martínez,35,Chile,Sí,Empresa Desconocida,Data Engineer,3,97114.0,1684.0,1448.24,Santiago,19116209.0,317000000000.0,16580.0,Junior,98562.24
+Carlos,Flores,55,Uruguay,Sí,Empresa Desconocida,Machine Learning Engineer,1,104541.0,3128.0,2690.08,Montevideo,3518552.0,71000000000.0,20300.0,Junior,107231.08
+Lucía,Torres,36,Costa Rica,No,Empresa Desconocida,Software Engineer,0,86042.0,8746.0,7521.5599999999995,San José,5150000.0,86500000000.0,14319.0,Junior,93563.56
+Lucía,González,56,Uruguay,No,Empresa Desconocida,Data Scientist,7,96078.0,11419.0,9820.34,Montevideo,3518552.0,71000000000.0,20300.0,Senior,105898.34
