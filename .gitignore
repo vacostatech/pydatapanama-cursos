@@ -263,3 +263,5 @@ $RECYCLE.BIN/
 
 # Ignnore  db
 data/db/*
+
+/cursos/analisis_datos/codigo_python
